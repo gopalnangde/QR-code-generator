@@ -24,5 +24,6 @@ inquirer
       console.log("There is a error");
     } else {
       // Something else went wrong
+      console.log("Something went wrong");
     }
   });
